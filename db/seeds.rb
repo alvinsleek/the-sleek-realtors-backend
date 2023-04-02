@@ -9,7 +9,7 @@
 
     
     
-    Property.create([
+    properties = Property.create([
       {
         id: 1,
         cover: "../images/list/p-1.png",
